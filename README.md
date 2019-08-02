@@ -11,3 +11,18 @@ TCS Previously Asked Coding Question Answers
 8. Chcek whether a number is a Palindrome or not
 9. Check whether a string is a Palindrome or not
 10. Check whether a given number is an Armstrong number or not
+11. Print all Armstrong numbers between two intervals
+12. Fibonacci series generation upto N terms
+13. Binary to decimal conversion
+14. Decimal to binary conversion
+15. Decimal to octal conversion
+16. Octal to decimal conversion
+17. Binary to octal conversion
+18. Octal to binary conversion
+19. Sum of all prime numbers within a range
+20. Reversing a given number
+21. Reverse a string
+22. Pyramid pattern using stars
+23. Pyramid pattern using numbers
+24. Second smallest element in an array
+25. Remove duplicate elements in an array
